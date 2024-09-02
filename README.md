@@ -48,3 +48,11 @@ O banco de dados foi estruturado com três tabelas principais:
 - **Clean Architecture**: Aplicada tanto no frontend quanto no backend para garantir uma separação clara entre as camadas da aplicação.
 - **Adapter Pattern**: Utilizado para integrar diferentes componentes e facilitar a comunicação entre módulos.
 - **Factory Pattern**: Implementado para a criação de instâncias de objetos complexos, promovendo flexibilidade e escalabilidade.
+
+## Vídeo de demonstração
+
+
+
+https://github.com/user-attachments/assets/1bdd3fde-4e0b-4217-9f1e-5c15fe087c93
+
+
