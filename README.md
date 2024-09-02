@@ -42,6 +42,8 @@ O banco de dados foi estruturado com três tabelas principais:
    - `CreatedAt`: Data de criação.
    - `UpdatedAt`: Data da última atualização.
    - `UserId`: Chave estrangeira para o usuário proprietário.
+     
+![WhatsApp Image 2024-09-02 at 15 32 47](https://github.com/user-attachments/assets/d5fa23cc-33a4-4652-a1b1-17c39f4a193c)
 
 ## Padrões de Projeto Implementados
 
