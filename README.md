@@ -16,7 +16,7 @@ Desenvolver uma aplicação de gerenciamento de tarefas (To-Do List) que permita
 
 - Criar, ler, atualizar e deletar tarefas.
 - Categorizar tarefas.
-- Autenticação de usuários para garantir segurança e personalização das tarefas.
+- Autenticação de usuários para garantir segurança e personalização das tarefas. (Jwt)
 
 ## Design da Base de Dados
 
